@@ -1,7 +1,6 @@
-### Golang Routing
+### Magic Soup
 
-The idea this repo is to understand routing in the simplest way possible.  When comming from the node.js world there is Express to meke web servers, which is very flexible in terms of routing and specially easy in terms of building a milddlewre pipeline.
+This repo started [here](https://github.com/michaeldebarros/go-routing), in a simple attempt to implement routing in Go.  I used Julien Schmidt's [Httprouter](https://github.com/julienschmidt/httprouter) for routing.
 
-In Golang, as well as in Node.js, there is a native package responsible for working with web connections.  Golang's standard library, despite beeing very complete, could be more efficient in terms of routing.  That's where Julien Schmidt's [Httprouter](https://github.com/julienschmidt/httprouter) comes in place "github.com/julienschmidt/httprouter".  
+After that, I decided to build a simple CRUD app and in the process transfer some Node.js skills into Go. So I added Mongo DB, validation, sessions, middleware, etc. 
 
-In the example in this repo I am doing all the routing through the httprouter, even staitc files.
