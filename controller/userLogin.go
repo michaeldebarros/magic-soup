@@ -2,10 +2,10 @@ package controller
 
 import (
 	"fmt"
+	"magicSoup/db"
+	"magicSoup/model"
+	"magicSoup/usersession"
 	"net/http"
-	"router/db"
-	"router/model"
-	"router/usersession"
 
 	"golang.org/x/crypto/bcrypt"
 

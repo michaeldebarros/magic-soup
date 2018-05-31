@@ -2,7 +2,7 @@ package controller
 
 import (
 	"fmt"
-	"router/db"
+	"magicSoup/db"
 
 	"gopkg.in/mgo.v2/bson"
 )

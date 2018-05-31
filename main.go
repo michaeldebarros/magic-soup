@@ -4,11 +4,11 @@ import (
 	"fmt"
 	"html/template"
 	"log"
+	"magicSoup/controller"
+	"magicSoup/db"
+	"magicSoup/model"
+	"magicSoup/usersession"
 	"net/http"
-	"router/controller"
-	"router/db"
-	"router/model"
-	"router/usersession"
 
 	"github.com/julienschmidt/httprouter"
 )

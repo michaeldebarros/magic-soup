@@ -2,9 +2,9 @@ package controller
 
 import (
 	"fmt"
-	"router/db"
-	"router/model"
-	"router/usersession"
+	"magicSoup/db"
+	"magicSoup/model"
+	"magicSoup/usersession"
 	"strings"
 )
 

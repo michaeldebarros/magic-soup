@@ -1,8 +1,8 @@
 package controller
 
 import (
-	"router/db"
-	"router/model"
+	"magicSoup/db"
+	"magicSoup/model"
 )
 
 //GetAllSoups export

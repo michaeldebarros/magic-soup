@@ -1,9 +1,9 @@
 package usersession
 
 import (
+	"magicSoup/db"
+	"magicSoup/model"
 	"net/http"
-	"router/db"
-	"router/model"
 	"strings"
 
 	"gopkg.in/mgo.v2/bson"
