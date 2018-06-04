@@ -4,3 +4,6 @@ This repo started [here](https://github.com/michaeldebarros/go-routing), in a si
 
 After that, I decided to build a simple CRUD app and in the process transfer some Node.js skills into Go. So I added Mongo DB, validation, sessions, middleware, etc. 
 
+I did a little walk through the app and recorded. The videos are as follows:
+
+1) [Intro](https://www.youtube.com/watch?v=ZkjOEUYEYBI) 
