@@ -6,5 +6,6 @@ After that, I decided to build a simple CRUD app and in the process transfer som
 
 I did a little walk through the app and recorded. The videos are as follows:
 
-1) [Intro](https://www.youtube.com/watch?v=ZkjOEUYEYBI) 
+1) [Intro](https://www.youtube.com/watch?v=ZkjOEUYEYBI)
+[https://img.youtube.com/vi/ZkjOEUYEYBI/0.jpg](https://www.youtube.com/watch?v=ZkjOEUYEYBI)
 2) [Init Function](https://www.youtube.com/watch?v=pf2VQChWiC0&t=79s)
