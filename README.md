@@ -8,5 +8,9 @@ I did a little walk through the app and recorded. The videos are as follows:
 
 1) [Intro](https://www.youtube.com/watch?v=ZkjOEUYEYBI)
 
-[![THUMBNAIL](https://img.youtube.com/vi/ZkjOEUYEYBI/0.jpg)](https://www.youtube.com/watch?v=ZkjOEUYEYBI)
+[![THUMBNAIL](https://img.youtube.com/vi/ZkjOEUYEYBI/mqdefault.jpg)](https://www.youtube.com/watch?v=ZkjOEUYEYBI)
+
 2) [Init Function](https://www.youtube.com/watch?v=pf2VQChWiC0&t=79s)
+
+[![THUMBNAIL](https://img.youtube.com/vi/pf2VQChWiC0/mqdefault.jpg)](https://www.youtube.com/watch?v=pf2VQChWiC0)
+
