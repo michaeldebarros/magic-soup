@@ -14,3 +14,8 @@ I did a little walk through the app and recorded. The videos are as follows:
 
 [![THUMBNAIL](https://img.youtube.com/vi/pf2VQChWiC0/mqdefault.jpg)](https://www.youtube.com/watch?v=pf2VQChWiC0)
 
+3) [Routing](https://youtu.be/Egzt5Bnl414)
+
+[![THUMBNAIL](https://img.youtube.com/vi/Egzt5Bnl414/mqdefault.jpg)](https://youtu.be/Egzt5Bnl414)
+
+
