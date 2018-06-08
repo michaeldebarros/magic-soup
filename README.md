@@ -18,4 +18,9 @@ I did a little walk through the app and recorded. The videos are as follows:
 
 [![THUMBNAIL](https://img.youtube.com/vi/Egzt5Bnl414/mqdefault.jpg)](https://youtu.be/Egzt5Bnl414)
 
+3) [Mongo DB](https://youtu.be/Hd7XAf7D2JA)
+
+[![THUMBNAIL](https://img.youtube.com/vi/Hd7XAf7D2JA/mqdefault.jpg)](https://youtu.be/Hd7XAf7D2JA)
+
+
 
