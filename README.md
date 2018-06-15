@@ -26,5 +26,9 @@ I did a little walk through the app and recorded. The videos are as follows:
 
 [![THUMBNAIL](https://img.youtube.com/vi/EaaEijKiu54/mqdefault.jpg)](https://youtu.be/EaaEijKiu54)
 
+6) [Templates](https://youtu.be/s1dyiXoSC-E)
+
+[![THUMBNAIL](https://img.youtube.com/vi/s1dyiXoSC-E/mqdefault.jpg)](https://youtu.be/s1dyiXoSC-E)
+
 
 
