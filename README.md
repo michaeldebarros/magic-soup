@@ -1,13 +1,13 @@
 ### Magic Soup
 
-This repo started [here](https://github.com/michaeldebarros/go-routing), in a simple attempt to implement routing in Go.  I used Julien Schmidt's [Httprouter](https://github.com/julienschmidt/httprouter) for routing.
-
-There is a login wall that is implemented via middleware.
+This repo started [here](https://github.com/michaeldebarros/go-routing), in a simple attempt to implement routing in Go.  I used Julien Schmidt's [Httprouter](https://github.com/julienschmidt/httprouter) for routing. 
 
 After that, I decided to build a simple CRUD app and in the process transfer some Node.js skills into Go. So I added Mongo DB, validation, sessions, middleware, etc. 
 
+There is a login wall that is implemented via middleware. Also, session management is done via a map (Go's native implementation of maps) of valid sassions to user id.
 
-There is a documenting branch also, whick contains the documentation that works with go doc command.
+
+There is a documenting branch also, which contains the documentation that works with go doc command.
 
 I did a little walk through the app and recorded. The videos are as follows:
 
