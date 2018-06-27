@@ -4,7 +4,7 @@ This repo started [here](https://github.com/michaeldebarros/go-routing), in a si
 
 After that, I decided to build a simple CRUD app and in the process transfer some Node.js skills into Go. So I added Mongo DB, validation, sessions, middleware, etc. 
 
-The ORM to connect do MongoDB is [mgo](https://godoc.org/labix.org/v2/mgo). 
+The ORM to connect do MongoDB is [mgo](https://godoc.org/labix.org/v2/mgo). Despite Mongo DB having an official driver for Go, mgo seems to be still very relevant. 
 
 There is a login wall that is implemented via middleware. Also, session management is done via a map (Go's native implementation of maps) of valid sassions to user id. This lets we get the user Id in every request.
 
