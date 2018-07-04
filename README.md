@@ -9,7 +9,7 @@ The ORM to connect do MongoDB is [mgo](https://godoc.org/labix.org/v2/mgo). Desp
 There is a login wall that is implemented via middleware. Also, session management is done via a map (Go's native implementation of maps) of valid sassions to user id. This lets we get the user Id in every request.
 
 
-There is a documenting branch also, which contains the documentation that works with go doc command.
+There is a documenting branch also, which contains the documentation that works with go doc command.(to be commited shortly)
 
 I did a little walk through the app and recorded. The videos are as follows:
 
