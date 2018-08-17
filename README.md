@@ -8,7 +8,7 @@ The ORM to connect do MongoDB is [mgo](https://godoc.org/labix.org/v2/mgo). Desp
 
 There is a login wall that is implemented via middleware. Also, session management is done via a map (Go's native implementation of maps) of valid sassions to user id. This lets we get the user id in every request.  In case of a reboot there is a way of checking for valid sessions saved on MongoDB.
 
-The front end is basically made with Bootstrap and is all server side rendered using Go`s template package.
+The front end is basically made with Bootstrap and is all server side rendered using Go`s template package. There is a video with a walk around of the template.
 
 There is a documenting branch also, which contains the documentation that works with go doc command.(to be commited shortly)
 
